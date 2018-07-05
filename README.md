@@ -3,5 +3,5 @@ Test repo
 Testing here nothing to see here -Nick
 <<<<<<< HEAD
 =======
-Nicky, Min at the backseat
+Nicky, Min went to school
 >>>>>>> new
