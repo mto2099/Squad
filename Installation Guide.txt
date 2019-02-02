@@ -1,0 +1,10 @@
+**** Installation guide and requrement specification ****
+
+- download .apk file from application folder
+- install the application
+
+Requirement Specificaition
+* minimum android version - 4.1
+* minimum SDK version - 16
+* Google play service version - 4.2.0
+* space - 4.12 MB
